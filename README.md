@@ -5,10 +5,10 @@
     <img src="public/assets/img/demo.png" alt="Demo">
   </a>
 
-  <h3 align="center">IrfanBakhtiar-V2</h3>
+  <h3 align="center">zennly-V2</h3>
 
   <p align="center">
-    Second version of my portfolio website built with Next.js, React.js and Tailwind CSS
+    DarkMode version of my portfolio website built with Next.js, React.js and Tailwind CSS
     <br />
     <a href="https://github.com/irfanbakhtiar/v2portfolio/issues">Report Bug</a>
 <!--     ·
